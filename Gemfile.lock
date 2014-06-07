@@ -1,16 +1,10 @@
 GEM
   remote: https://rubygems.org/
   specs:
-    arduino_firmata (0.3.7)
-      args_parser (>= 0.1.4)
-      event_emitter (>= 0.2.4)
-      serialport (>= 1.1.0)
-    args_parser (0.2.0)
     daemons (1.1.9)
     em-websocket (0.5.0)
       eventmachine (>= 0.12.9)
       http_parser.rb (~> 0.5.3)
-    event_emitter (0.2.5)
     eventmachine (1.0.3)
     http_parser.rb (0.5.3)
     rack (1.5.2)
@@ -32,8 +26,8 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
-  arduino_firmata
   em-websocket
+  serialport
   sinatra
   thin
   websocket
