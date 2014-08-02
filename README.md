@@ -5,6 +5,9 @@ A web controlled robot made using Arduino and RaspberryPi. Name inspired from ht
 
 Written in Ruby.
 
+Read More 
+
+http://tworitdash.in/blog/2014/06/28/our-atom-bot/
 
 ![Atom](http://i.imgur.com/xTNkS00.png)
 
